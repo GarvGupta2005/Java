@@ -1,0 +1,16 @@
+1)  Primitive
+    byte - 1byte
+    char - 2byte
+    boolean - 4byte
+    int - 4byte
+    long - 8byte
+    float - 4byte
+    double - 8byte
+
+
+2) Non-Primitive
+   string 
+   array
+   class 
+   object
+   interface
