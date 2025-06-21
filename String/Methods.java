@@ -24,3 +24,14 @@ public class Main {
     System.out.println(txt.indexOf("locate"));
   }
 }
+
+
+// Concatinatiom
+public class Main {
+  public static void main(String[] args) {
+    String firstName = "John ";
+    String lastName = "Doe";
+    System.out.println(firstName.concat(lastName));
+  }
+}
+// if we add string and number output will be string
