@@ -19,7 +19,8 @@ public class Main{
             return 1;
         }
         else{
-            return a*power(a,b-1);  // a^b = a * a^(b-1)
-        }
-    } 
-}
+            return a* power(a,b-1);  // a^b = a * a^(b-1)
+        }                           //2^3 = 2 * power(2,2)
+    }                               //2^3 = 2* (2 * (power(2,1)))
+}                                   //2^3 = 2* (2 * (2 *(power(2,0)))) ===> "b==0"
+                                    //2^3 = 2* 2* 2* 1 
