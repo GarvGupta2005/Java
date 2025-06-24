@@ -9,7 +9,7 @@ sort()   Sorting lists alphabetically or numerically
 
 
 //LinkedList
-addFirst()	  Adds an element to the beginning of the list	
+addFirst()	  Add an element to the beginning of the list	
 addLast()	    Add an element to the end of the list	
 removeFirst()	Remove an element from the beginning of the list	
 removeLast()	Remove an element from the end of the list	
