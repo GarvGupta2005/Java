@@ -5,7 +5,7 @@ set()    Replaces the element at the specified position
 remove() Removes the element at the specified position
 size()   Returns the number of elements in the list
 clear()  Remove all elements in list
-sort()   Sorting lists alphabetically or numerically  
+Collections.sort()   Sorting lists alphabetically or numerically  
 
 
 //LinkedList
