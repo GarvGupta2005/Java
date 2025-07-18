@@ -8,9 +8,12 @@ class Solution {
         for (int i = lower_case.length() - 1; i >= 0; i--) {
             palindrome = palindrome + lower_case.charAt(i); 
         }
-        if (palindrome.equals(lower_case)) {
+        if (palindrome.equals(lower_case))
+        {
             return true;
-        } else {
+        }
+        else
+        {
             return false;
         }
     }
