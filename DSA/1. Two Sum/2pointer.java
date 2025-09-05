@@ -1,3 +1,4 @@
+// Not correct completely if array is unsorted
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         
